@@ -1,2 +1,2 @@
 # myprojects
-Find "Readme.docx" file inside each project folder for complete instructions.
+Find "Readme.docx" file inside project folder for complete instructions.
